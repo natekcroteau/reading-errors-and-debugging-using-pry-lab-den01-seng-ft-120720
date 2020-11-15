@@ -17,8 +17,8 @@ def selection(num)
      "YUM YUM MUNCH MUNCH MUNCH"
   elsif num = 2
      "HAM HAM HAM IN MY TUMMY"
-     binding.pry
-     puts"prying"
+  binding.pry
+  puts"prying"
 end
 
 def runner
